@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+This is our organisation for getting work done!
+If you require assistance please contact xyz
 <!--
 
 **Here are some ideas to get you started:**
