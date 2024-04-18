@@ -1,6 +1,5 @@
 ## Hi there 👋
-This is our organisation for getting work done!
-This is the public facing readme
+This is the public facing README that everyone will see
 If you require assistance please contact xyz
 <!--
 
